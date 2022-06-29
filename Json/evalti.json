@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"evalti"},
+{"type":"table","name":"roles","database":"evalti","data":
+[
+{"rol_id":"1","nombre":"Adminitrador"},
+{"rol_id":"2","nombre":"Geremte"}
+]
+}
+,{"type":"table","name":"usuarios","database":"evalti","data":
+[
+{"usuario_id":"1","nombre":"Luis","apellido":"Chacon","telefono":"32165487","direccion":"Guatemala","correo_electronico":"Luis@gmail.com","fecha_nacimiento":"2022-10-20","rol_id":"1","activo":"1","contraseña":"LuiscarlosContra"},
+{"usuario_id":"2","nombre":"Teresa","apellido":"Rocio","telefono":"12345678","direccion":"Guatemala","correo_electronico":"Teresa@gmail.com","fecha_nacimiento":"2003-10-25","rol_id":"1","activo":"1","contraseña":"Teresacontra"},
+{"usuario_id":"3","nombre":"Carlos","apellido":"Zeceña","telefono":"54325487","direccion":"Guatemala","correo_electronico":"Carlos@gmail.com","fecha_nacimiento":"2003-10-22","rol_id":"1","activo":"1","contraseña":"CarlosContrra"},
+{"usuario_id":"4","nombre":"Angel","apellido":"Juarez","telefono":"57351275","direccion":"Guatemala","correo_electronico":"ajuarezcastellanos45@gmail.com","fecha_nacimiento":"2003-10-17","rol_id":"2","activo":"1","contraseña":"12345678"}
+]
+}
+]
